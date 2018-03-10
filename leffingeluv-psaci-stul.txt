@@ -1,11 +1,11 @@
-Nejefektivnìjší psací stul, podle mého hlubokého vìdeckého bádání jsem dospìl k závìru:
+NejefektivnÄ›jÅ¡Ã­ psacÃ­ stul, podle mÃ©ho hlubokÃ©ho vÄ›deckÃ©ho bÃ¡dÃ¡nÃ­ jsem dospÄ›l k zÃ¡vÄ›ru:
 
-A1 - hormada sešitu
+A1 - hormada seÅ¡itu
 A2 - kabel
 A3
-A4
-A5 - hormada sešitu
-B1 - hormada sešitu
+A4 - github edit
+A5 - hormada seÅ¡itu
+B1 - hormada seÅ¡itu
 B2 - notebook
 B3 - notebook
 B4 - notebook
