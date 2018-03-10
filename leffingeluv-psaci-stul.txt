@@ -6,7 +6,7 @@ A3
 A4
 A5 - hormada sešitu
 B1 - hormada sešitu
-B2 - pracovní plocha
-B3 - pracovní plocha
-B4 - pracovní plocha
+B2 - notebook
+B3 - notebook
+B4 - notebook
 B5
